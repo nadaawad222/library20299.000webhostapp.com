@@ -1,0 +1,194 @@
+
+@import url('https://fonts.googleapis.com/css?family=Lato|Pacifico|Righteous|Roboto+Condensed|Ubuntu&display=swap');
+ 
+ body{
+	
+	padding: 0%;
+	margin:0%;
+	font-family:'Lato';
+	
+}
+
+
+
+.navbar-brand{
+	font-family: 'Pacifico';
+	
+	font-size: 35px;
+	color: #00E8E8 !important;
+}
+
+
+
+
+
+.nav-like{
+	font-size: 16px;
+	margin:15px;
+	color: black !important;
+	font-family:#495243;
+}
+
+.nav-link:hover{
+	 color:#C656D7  !important;
+	 
+}
+.active .van-link{
+	color:#0E23D7 !important;
+	
+}
+
+
+.menu-right-btn{
+	padding: 13px 46%;
+	margin-right: 4%;
+	background-color:#B9BBCA ;
+	transition: all 300ms ease-in;
+}
+
+
+
+.menu-right-btn:hover{
+	color: white;
+	background-color:black;
+	
+}
+
+.site-content{
+	
+	background-image: url('https://wordtracker-swoop-uploads.s3.amazonaws.com/uploads/ckeditor/pictures/2686/content_AI_social.png');
+	background-attachment:fixed;
+	background-size:cover;
+	height: 800px;
+	
+}
+
+
+.site-title, .site-desc{
+	color: black;
+	font-family: 'Righteous';
+	
+}
+.site-title{
+	
+	margin-top: 3%;
+	margin-bottom: -3%;
+	font-size:60px;
+}
+
+
+.site-desc{
+	font-size:14px;
+	padding-left: 15%;
+	
+	
+
+	
+}
+
+
+.site-btn1{
+	margin-left:20%;
+	background-color: black;
+	color:white;
+}
+.site-btn2{
+	background-color:white;
+	
+}
+.site-btn1, .site-btn2{
+	
+	margin-top:5%;
+	margin-bottom:40%;
+}
+.section-1 .heading-1{
+	
+	
+	margin-top: 8%;
+	
+	
+	
+	
+}
+.section-1 .heading-2{
+	
+	margin-bottom: 5%;
+	font-size:39px;
+	
+	
+	
+}
+
+.section-1 .para-1{
+	width: 60%;
+	margin-left:20%;
+	margin-bottom:5%;	
+}
+.section-1 .card-text, para-1{
+	color: rgba(0,0,0,0.59);
+	
+}
+ 
+ 
+ .section-1{
+	 margin-bottom: 8%;
+ }
+ 
+ .section-2 .container-fluid{
+	 
+	 background-image: url('../img/لاب.jpg');
+	 background-size: colve;
+	 background-attachment: fixed;
+	 
+	 
+	 
+ }
+ 
+ .section-2 .heading-1{
+	 
+	 margin-top: 20%;
+	 margin-bottom: 4%;
+	 font-family:#A8AFE9;
+	 width: 80%;
+	 color:black;
+ }
+ 
+ .section-2 .para{
+	 
+	 width:80%;
+	 font-family:  #5F6EED;
+	 color:white;
+	 margin-bottom: 7%;
+ }
+
+.section-2 .btn{
+	
+	margin-bottom: 1%;
+	width: 30%;
+	padding:2% 5%;
+	 
+	
+	
+	
+	
+}
+.section-3{
+	margin-top: Float:right;
+}
+.section-3 i{
+	
+	
+	color:#05F84D ;
+	
+}
+.section-3 p{
+	
+	color:rgba(red, green,blue,alpha)
+	
+	
+	
+}
+
+	
+	
+	
